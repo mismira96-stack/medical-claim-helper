@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">실비 청구 도우미</string>
+    <string name="accessibility_service_label">메리츠 청구 화면 자동 진입 도우미</string>
+    <string name="accessibility_desc">메리츠화재 앱 실행 시 보험금 청구 화면으로의 진입을 보조합니다.</string>
+</resources>
